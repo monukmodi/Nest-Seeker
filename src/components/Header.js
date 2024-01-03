@@ -15,7 +15,7 @@ const Header = () => {
         {/* <i class="fa-duotone fa-envelope-open"></i> */}
         {/* <i class="fa-regular fa-envelope"></i> */}
         <div className="flex gap-2">
-          <i class="fa-solid fa-envelope-open"></i>
+          <i class="fa-solid fa-house"></i>
           <h2 className="text-4xl lg:text-[20px] font-semibold leading-none mb-6">
             Nest Seeker
           </h2>
